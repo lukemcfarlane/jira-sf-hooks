@@ -1,0 +1,15 @@
+{
+    "JIRANewIssueHandler.cls": {
+        "createdById": "00590000001eEeEAAU", 
+        "createdByName": "Trineo Ltd", 
+        "createdDate": "2013-05-23 16:24:35", 
+        "fileName": "unpackaged/classes/JIRANewIssueHandler.cls", 
+        "fullName": "JIRANewIssueHandler", 
+        "id": "01p90000002hfIKAAY", 
+        "lastModifiedById": "00590000001eEeEAAU", 
+        "lastModifiedByName": "Trineo Ltd", 
+        "lastModifiedDate": "2013-05-23 16:30:11", 
+        "manageableState": "unmanaged", 
+        "type": "ApexClass"
+    }
+}
