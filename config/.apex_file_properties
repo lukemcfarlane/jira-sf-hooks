@@ -1,4 +1,17 @@
 {
+    "APIResource_JIRA_Issue.cls": {
+        "createdById": "00590000001eEeEAAU", 
+        "createdByName": "Trineo Ltd", 
+        "createdDate": "2013-06-09 18:46:10", 
+        "fileName": "unpackaged/classes/APIResource_JIRA_Issue.cls", 
+        "fullName": "APIResource_JIRA_Issue", 
+        "id": "01p900000033EC1AAM", 
+        "lastModifiedById": "00590000001eEeEAAU", 
+        "lastModifiedByName": "Trineo Ltd", 
+        "lastModifiedDate": "2013-06-09 18:50:41", 
+        "manageableState": "unmanaged", 
+        "type": "ApexClass"
+    }, 
     "JIRAIssue.cls": {
         "createdById": "00590000001eEeEAAU", 
         "createdByName": "Trineo Ltd", 
@@ -8,20 +21,7 @@
         "id": "01p900000033E7eAAE", 
         "lastModifiedById": "00590000001eEeEAAU", 
         "lastModifiedByName": "Trineo Ltd", 
-        "lastModifiedDate": "2013-06-09 16:48:04", 
-        "manageableState": "unmanaged", 
-        "type": "ApexClass"
-    }, 
-    "JIRANewIssueHandler.cls": {
-        "createdById": "00590000001eEeEAAU", 
-        "createdByName": "Trineo Ltd", 
-        "createdDate": "2013-05-23 16:24:35", 
-        "fileName": "unpackaged/classes/JIRANewIssueHandler.cls", 
-        "fullName": "JIRANewIssueHandler", 
-        "id": "01p90000002hfIKAAY", 
-        "lastModifiedById": "00590000001eEeEAAU", 
-        "lastModifiedByName": "Trineo Ltd", 
-        "lastModifiedDate": "2013-05-23 16:30:11", 
+        "lastModifiedDate": "2013-06-09 18:29:19", 
         "manageableState": "unmanaged", 
         "type": "ApexClass"
     }

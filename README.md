@@ -7,9 +7,11 @@ Login
 -----
 sfdev+jirahooks@trineo.co.nz
 
-Public endpoint address:
+
+API Resources:
 ------------------------
-https://jira-hooks-handler-developer-edition.ap1.force.com/services/apexrest/newjiraissue?param1=Hi
+https://jira-hooks-handler-developer-edition.ap1.force.com/services/apexrest/jira/issue [POST]
+
 
 Reference
 ---------
