@@ -1,4 +1,17 @@
 {
+    "JIRAIssue.cls": {
+        "createdById": "00590000001eEeEAAU", 
+        "createdByName": "Trineo Ltd", 
+        "createdDate": "2013-06-09 16:34:34", 
+        "fileName": "unpackaged/classes/JIRAIssue.cls", 
+        "fullName": "JIRAIssue", 
+        "id": "01p900000033E7eAAE", 
+        "lastModifiedById": "00590000001eEeEAAU", 
+        "lastModifiedByName": "Trineo Ltd", 
+        "lastModifiedDate": "2013-06-09 16:48:04", 
+        "manageableState": "unmanaged", 
+        "type": "ApexClass"
+    }, 
     "JIRANewIssueHandler.cls": {
         "createdById": "00590000001eEeEAAU", 
         "createdByName": "Trineo Ltd", 
